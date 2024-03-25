@@ -16,4 +16,4 @@
 # Updates:
 - Balanced the turrets, enemies and waves. Made the enemy spawn cooldown slighly random.
 
-# "Release" data: 05/12/2023. Added on github: 25/03/2024.
+   "Release" date: 05/12/2023. Added on github: 25/03/2024.
